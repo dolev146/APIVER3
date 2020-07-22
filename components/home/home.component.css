@@ -1,0 +1,24 @@
+
+#homeContainer {
+    margin-top: 3%;
+    transform: translateX(-20%); 
+    margin-left: auto;
+    display: flex;
+    flex-wrap: wrap;
+    overflow-y: auto;
+    width: 70vw;
+    height: 68vh;
+    justify-content:space-evenly ;
+}
+
+#homeContainer > div {
+    width: 32.5%;
+    position: relative;
+}
+
+.LiveReportsAndMoreInfoContainer {
+justify-content:space-evenly ;
+    display: flex;
+    flex-wrap: wrap;
+}
+
